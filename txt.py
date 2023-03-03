@@ -19,3 +19,8 @@
 # git checkout zahro: переходить на ветку name
 # git checkout -b: создать и переидти на эту ветку
 # git merge zahro: слиться с одной веткой
+#ZAHRO
+#ZAHRO
+#ZAHRO
+#ZAHRO
+#ZAHRO
